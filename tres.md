@@ -1,0 +1,69 @@
+# Day 12, 04.08.2026
+
+
+
+---
+
+## __Basic Overview__
+
+* Data Collection
+* Databases
+* Relational Databases Management Systems (RDMS) : SQL
+
+---
+
+## __Schedule__
+
+|Time|Content|
+|---|---|
+|09:00 - 10:00|Daily review|
+|10:00 - 11:15|Databases and SQL|
+|11:25 - 13:00|Entity Relationship Model (ERC- Miro Diagram) Excercises: Airport & Restaurant|
+|13:00 - 13:30|Lunch break|
+|13:30 - 16:00|Practical exercises: SQL / DBeaver|
+|16:00 - 16:30|(Optional) Sync Q&A|
+|16:30 - 18:30|Exercises and ending|
+
+---
+# __Introduction to Databases__
+
+##   Types of Data : 
+* Unstructured / Semi-structured / Structured.
+* Why learn about Databases? : Learning about databases allows us to access and analyze large datasets to unlock valuable insights.
+
+##   Databases :
+*  "A systematic collection of data stored either on disk or in-memory for faster access, supporting electronic storage and manipulation"
+
+## Types of Databases:
+*  RDBMS : Relational Database Management Systems (SQL, Postgres, MySql, Oracle, SQlite).
+*  NoSQL Database (Neo4j, Elasticsearch, MongoDB).
+
+## SQL (RDBMS) Database Structure:
+*  Entity-Relationship (ER) Model : organize data into entities (objects, people, or places) characterized by attributes (their properties) and linked together by different types of relationships.
+
+<div align="center">
+  <img src="https://www.collegenirnay.com/_next/image?url=%2Fuploads%2FSQL_d593110b35.webp&w=1920&q=75" width="800">
+</div>
+---
+
+## __SQL Key Commands & Examples__
+
+1. Basic Data Retrieval (`SELECT` & `FROM`) `SELECT` specifies which columns to retrieve from a table.  `DISTINCT` eliminates duplicate rows from the output.
+2. Filtering Records (`WHERE`) Filters individual rows using comparison operators (`=`, `>`, `<`) or ranges (`BETWEEN`).
+3. Summarizing Data (Aggregate Functions) Collapses multiple rows into summary metrics using functions like `COUNT()`, `AVG()`, `SUM()`, `MIN()`, or `MAX()`.
+4. Grouping & Group Filtering (`GROUP BY` & `HAVING`) `GROUP BY` splits data into categories to perform aggregations on each group.  `HAVING` filters the resulting grouped aggregations.
+5. Sorting & Limiting Results (`ORDER BY` & `LIMIT`) `ORDER BY` sorts the output in ascending (`ASC`) or descending (`DESC`) order.  `LIMIT` restricts the total number of rows returned.
+<img width="1888" height="560" alt="Gemini_Generated_Image_cnqr7pcnqr7pcnqr" src="https://github.com/user-attachments/assets/5060e8dc-f039-4abc-aacb-ed5d8f0d2075" />
+
+
+---
+
+## __Links, Quotes, Pictures and GIFs__
+
+* [PostgreSQL Official Documentation](https://www.postgresql.org/docs/)
+* [MongoDB Official Documentation](https://www.mongodb.com/docs/)
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/8888ecbb-ba37-402c-ac9c-219f38df2843" alt="image1" width="300" />
+</p>
+
+  
